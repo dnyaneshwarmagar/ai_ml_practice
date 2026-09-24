@@ -1,1 +1,1 @@
-# ai_ml_practice
+# ai_ml
